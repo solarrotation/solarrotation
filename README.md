@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @solarrotation
 - 🌱 I’m currently learning full-stack development (Javascript, HTML, CSS, Node.js, etc.)
 - 😄 Pronouns: She/Her
-- ⚡ I'm apart of the Odin Project
+- ⚡ I'm a student of the Odin Project
 
 <!---
 solarrotation/solarrotation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
