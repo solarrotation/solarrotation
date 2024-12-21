@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @solarrotation
+- 👋 Hi, I’m Solaris
 - 🌱 I’m currently learning full-stack development (Javascript, HTML, CSS, Node.js, etc.)
 - 😄 Pronouns: She/Her
 - ⚡ I'm a student of the Odin Project
