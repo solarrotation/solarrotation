@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Solaris
-- 🌱 I’m currently learning full-stack development (Javascript, HTML, CSS, Node.js, etc.)
+- 🌱 I’m currently learning frontend development (Javascript, HTML, CSS, Node.js, etc.)
 - 😄 Pronouns: She/Her
-- ⚡ I'm a student of the Odin Project
 
 <!---
 solarrotation/solarrotation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
