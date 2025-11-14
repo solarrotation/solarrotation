@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Solaris
-- 🌱 I’m currently learning frontend development (Javascript, HTML, CSS, Node.js, etc.)
+- 🌱 I’m currently learning web development (Javascript, HTML, CSS, Node.js, etc.)
 - 😄 Pronouns: She/Her
 
 <!---
